@@ -1,0 +1,235 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso",
+    "image": "https://i.ibb.co.com/6XPk3nf/espresso.webp",
+    "category": "Brewed Coffee",
+    "ingredients": ["Coffee Beans", "Water"],
+    "nutrition_info": {
+      "calories": 2,
+      "fat": 0,
+      "carbohydrates": 0,
+      "protein": 0
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Grind coffee beans finely. Pack the grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing. Serve immediately in a small cup.",
+    "rating": 4.5,
+    "popularity": 88
+  },
+  {
+    "id": 2,
+    "name": "Cappuccino",
+    "image": "https://i.ibb.co.com/FBhC5qD/istockphoto-505168330-612x612.webp",
+    "category": "Brewed Coffee",
+    "ingredients": ["Espresso", "Steamed Milk", "Milk Foam"],
+    "nutrition_info": {
+      "calories": 120,
+      "fat": 7,
+      "carbohydrates": 12,
+      "protein": 6
+    },
+    "origin": "Italy",
+    "type": "Creamy",
+    "description": "A classic Italian coffee drink made with equal parts espresso, steamed milk, and milk foam.",
+    "making_process": "Prepare a shot of espresso. Steam milk to create microfoam. Pour the steamed milk over the espresso, followed by the milk foam on top. Optionally, sprinkle with cocoa powder or cinnamon.",
+    "rating": 4.7,
+    "popularity": 92
+  },
+  {
+    "id": 3,
+    "name": "Latte",
+    "image": "https://i.ibb.co.com/rvFz4NW/unnamed-be2775a1-186d-40c1-b094-488fa5fa4050.webp",
+    "category": "Brewed Coffee",
+    "ingredients": ["Espresso", "Steamed Milk", "Milk Foam"],
+    "nutrition_info": {
+      "calories": 150,
+      "fat": 7,
+      "carbohydrates": 15,
+      "protein": 8
+    },
+    "origin": "Italy",
+    "type": "Creamy",
+    "description": "A smooth and creamy coffee made with espresso and a generous amount of steamed milk.",
+    "making_process": "Brew a shot of espresso. Steam milk to create a velvety texture. Pour the steamed milk over the espresso, leaving a small amount of foam to top. Optionally, add flavored syrups.",
+    "rating": 4.8,
+    "popularity": 95
+  },
+  {
+    "id": 4,
+    "name": "Americano",
+    "image": "https://i.ibb.co.com/FXY0Yb3/image3-63f62a8a-c679-4bc2-9d65-8025ed2d7982-480x480.webp",
+    "category": "Brewed Coffee",
+    "ingredients": ["Espresso", "Hot Water"],
+    "nutrition_info": {
+      "calories": 5,
+      "fat": 0,
+      "carbohydrates": 1,
+      "protein": 0
+    },
+    "origin": "United States",
+    "type": "Strong",
+    "description": "A simple coffee drink made by diluting espresso with hot water.",
+    "making_process": "Brew one or two shots of espresso. Pour hot water over the espresso in a cup, adjusting the water to achieve your preferred strength.",
+    "rating": 4.3,
+    "popularity": 83
+  },
+  {
+    "id": 5,
+    "name": "Mocha",
+    "image": "https://i.ibb.co.com/7pCMWZZ/the-perfect-mocha-coffee-29100-16x9.jpg",
+    "category": "Brewed Coffee",
+    "ingredients": [
+      "Espresso",
+      "Steamed Milk",
+      "Chocolate Syrup",
+      "Whipped Cream"
+    ],
+    "nutrition_info": {
+      "calories": 250,
+      "fat": 10,
+      "carbohydrates": 32,
+      "protein": 8
+    },
+    "origin": "Italy",
+    "type": "Sweet",
+    "description": "A delicious blend of espresso, steamed milk, and rich chocolate, topped with whipped cream.",
+    "making_process": "Brew a shot of espresso. In a cup, combine espresso with chocolate syrup. Steam milk and pour it over the espresso mixture. Top with whipped cream and drizzle with additional chocolate syrup.",
+    "rating": 4.6,
+    "popularity": 90
+  },
+  {
+    "id": 6,
+    "name": "Cold Brew",
+    "image": "https://i.ibb.co.com/yB9BbTf/cold-brew.jpg",
+    "category": "Iced Coffee",
+    "ingredients": ["Coarse Coffee Grounds", "Cold Water"],
+    "nutrition_info": {
+      "calories": 5,
+      "fat": 0,
+      "carbohydrates": 0,
+      "protein": 0
+    },
+    "origin": "United States",
+    "type": "Smooth",
+    "description": "A smooth, less acidic coffee brewed with cold water over an extended period.",
+    "making_process": "Combine coarse coffee grounds with cold water in a jar. Stir and let steep in the refrigerator for 12-24 hours. Strain the mixture through a coffee filter or fine mesh. Serve over ice.",
+    "rating": 4.7,
+    "popularity": 91
+  },
+  {
+    "id": 7,
+    "name": "Flat White",
+    "image": "https://i.ibb.co.com/9GJp9MR/robbie-down-LI8iny-Hnm-A-unsplash.jpg",
+    "category": "Brewed Coffee",
+    "ingredients": ["Espresso", "Steamed Milk"],
+    "nutrition_info": {
+      "calories": 130,
+      "fat": 5,
+      "carbohydrates": 10,
+      "protein": 6
+    },
+    "origin": "Australia",
+    "type": "Creamy",
+    "description": "A velvety coffee drink made with espresso and microfoam milk.",
+    "making_process": "Brew a double shot of espresso. Steam milk to create a smooth microfoam. Pour the milk over the espresso, aiming for a creamy blend without a thick layer of foam.",
+    "rating": 4.5,
+    "popularity": 87
+  },
+  {
+    "id": 8,
+    "name": "Affogato",
+    "image": "https://i.ibb.co.com/k2BS3LT/375c5968-268c-407b-8910-d2731fc1d996.webp",
+    "category": "Dessert Coffee",
+    "ingredients": ["Espresso", "Vanilla Ice Cream"],
+    "nutrition_info": {
+      "calories": 300,
+      "fat": 12,
+      "carbohydrates": 40,
+      "protein": 6
+    },
+    "origin": "Italy",
+    "type": "Sweet",
+    "description": "A delightful dessert combining hot espresso poured over cold vanilla ice cream.",
+    "making_process": "Scoop vanilla ice cream into a bowl or glass. Brew a shot of espresso and pour it directly over the ice cream. Serve immediately with a spoon.",
+    "rating": 4.9,
+    "popularity": 94
+  },
+  {
+    "id": 9,
+    "name": "Turkish Coffee",
+    "image": "https://i.ibb.co.com/YkFsFCn/Turkish-Coffee-16eff1f0-bb77-469e-957c-4b97d43789fa.webp",
+    "category": "Brewed Coffee",
+    "ingredients": ["Finely Ground Coffee", "Water", "Sugar"],
+    "nutrition_info": {
+      "calories": 20,
+      "fat": 0,
+      "carbohydrates": 4,
+      "protein": 0
+    },
+    "origin": "Turkey",
+    "type": "Strong",
+    "description": "A traditional coffee brewed in a special pot, resulting in a thick, rich beverage.",
+    "making_process": "Combine finely ground coffee, water, and sugar in a cezve (Turkish coffee pot). Heat over low flame until it froths, then remove before boiling. Pour into a cup, allowing grounds to settle.",
+    "rating": 4.6,
+    "popularity": 89
+  },
+  {
+    "id": 10,
+    "name": "Nitro Cold Brew",
+    "image": "https://i.ibb.co.com/Pz60DqL/download.jpg",
+    "category": "Iced Coffee",
+    "ingredients": ["Cold Brew", "Nitrogen"],
+    "nutrition_info": {
+      "calories": 10,
+      "fat": 0,
+      "carbohydrates": 0,
+      "protein": 0
+    },
+    "origin": "United States",
+    "type": "Smooth",
+    "description": "Cold brew coffee infused with nitrogen for a creamy, frothy texture.",
+    "making_process": "Brew cold brew coffee as usual. Transfer to a nitro coffee keg and infuse with nitrogen gas. Serve straight from the tap into a glass, creating a foamy head.",
+    "rating": 4.8,
+    "popularity": 93
+  },
+  {
+    "id": 11,
+    "name": "Doppio",
+    "image": "https://i.ibb.co.com/FmXVQ4Q/Doppio.jpg",
+    "category": "Brewed Coffee",
+    "ingredients": ["Double Espresso"],
+    "nutrition_info": {
+      "calories": 4,
+      "fat": 0,
+      "carbohydrates": 0,
+      "protein": 0
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A double shot of espresso for those who crave a bold coffee experience.",
+    "making_process": "Grind coffee beans finely. Pack twice the amount of grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing two shots at once.",
+    "rating": 4.4,
+    "popularity": 85
+  },
+  {
+    "id": 12,
+    "name": "Irish Coffee",
+    "image": "https://i.ibb.co.com/k0TxTTM/JJ-1808-Q2-Drinks-Shoot-0622-Web-975-730-5.webp",
+    "category": "Dessert Coffee",
+    "ingredients": ["Coffee", "Irish Whiskey", "Sugar", "Whipped Cream"],
+    "nutrition_info": {
+      "calories": 200,
+      "fat": 5,
+      "carbohydrates": 22,
+      "protein": 1
+    },
+    "origin": "Ireland",
+    "type": "Sweet",
+    "description": "A warm, comforting coffee drink mixed with Irish whiskey and topped with whipped cream.",
+    "making_process": "Brew a strong cup of coffee. In a glass, combine hot coffee, Irish whiskey, and sugar, stirring until dissolved. Top with a thick layer of whipped cream, serving warm.",
+    "rating": 4.7,
+    "popularity": 90
+  }
+]
